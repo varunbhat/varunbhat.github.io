@@ -1,3 +1,5 @@
+![CI](https://github.com/varunbhat/varunbhat.github.io/workflows/CI/badge.svg)
+
 # varunbhat
 
 ## Project setup
